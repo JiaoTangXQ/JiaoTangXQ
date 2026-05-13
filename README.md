@@ -1,16 +1,57 @@
-## Hi there 👋
+# JiaoTangXQ
 
-<!--
-**JiaoTangXQ/JiaoTangXQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  独立开发者，AI 开发工程师，AI 重度使用者。
 
-Here are some ideas to get you started:
+  早期做人脸识别，后来做深度学习模型训练。AI 爆发后，主要做 AI 训
+  练、Agent 系统、后端架构和部署运维。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  我关心的不是“让 AI 说得更好”，而是“让 AI 在真实任务里少添乱、
+  多干活”。
+
+  ## 我在做的事
+
+  - 搭 AI Agent 系统：任务拆解、工具调用、状态记录、异常处理。
+  - 做 AI 应用后端：模型、数据、权限、日志、任务流程都得接得上。
+  - 做训练和实验：数据怎么来，效果怎么评，成本怎么算，结果怎么复
+  现。
+  - 做部署和运维：demo 能跑不算完，半夜没人盯着也能跑，才算少给自
+  己挖坑。
+  - 用 AI 辅助开发、写作、调研和产品验证，但最后拍板的人还是我。
+
+  ## 我怎么看 AI
+
+  AI 不是许愿池。
+
+  一个 AI 系统靠不靠谱，我通常看这些：
+
+  - 输入是不是清楚
+  - 任务能不能拆开
+  - 工具调用有没有边界
+  - 过程有没有记录
+  - 出错后能不能查
+  - 成本是不是算得出来
+  - 结果能不能被人检查
+
+  模型可以负责生成，人要负责判断。
+  不然它一本正经胡说八道的时候，你还得给它鼓掌。
+
+  ## 技术范围
+
+  后端开发 · AI 应用工程 · Agent 系统 · 深度学习训练 · 架构设计 ·
+  运维部署 · 自动化工具
+
+  ## 博客
+
+  我会在博客里记录使用 AI 的想法、实验和判断。
+
+  文章会大量使用 AI 辅助完成。
+  观点由我负责，废话由我删除。
+
+  - Blog: https://jiaotangxq.github.io
+
+  ## 现在关注
+
+  - AI Agent 怎么从 demo 变成可维护系统
+  - 小团队怎么把 AI 用进开发、运营和内容生产
+  - AI 辅助写作、编码、调研时，人应该保留哪些判断
+  - 独立开发者怎么用 AI 做出能长期维护的产品
