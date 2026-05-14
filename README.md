@@ -1,4 +1,4 @@
-<h1 align="center">JiaoTangXQ</h1>
+<h1 align="center">焦糖星球</h1>
 
   <p align="center">
     独立开发者 · AI 应用工程师
@@ -24,15 +24,17 @@
 
   ## Vibe Coding
 
-  之前只会后端和 AI 开发。
-  现在有了 vibe coding，有了啥都能做的错觉。
+  之前只会C++，Java，Python和 AI 开发。
+  现在用 vibe coding，有了啥都能做的错觉。
 
   ---
 
   ## 我的博客
 
-  我对于 AI 的运用、思考和工程实现都会记录到 [我的博客](https://
-  jiaotangxq.github.io)。
+  我对于 AI 的运用、思考和工程实现都会记录到 [ <p align="center">
+    <a href="https://jiaotangxq.github.io"><strong>我的博客</
+  strong></a>
+  </p>
 
   虽然文章是 AI 完成，
   但思想均由我负责生成。
