@@ -31,10 +31,7 @@
 
   ## 我的博客
 
-  我对于 AI 的运用、思考和工程实现都会记录到 [ <p align="center">
-    <a href="https://jiaotangxq.github.io"><strong>我的博客</
-  strong></a>
-  </p>
+  我对于 AI 的运用、思考和工程实现都会记录到   <p align="center"><a href="https://jiaotangxq.github.io"><strong>我的博客</strong></a></p>
 
   虽然文章是 AI 完成，
   但思想均由我负责生成。
