@@ -1,26 +1,38 @@
-  # JiaoTangXQ
+<h1 align="center">JiaoTangXQ</h1>
+
+  <p align="center">
+    独立开发者 · AI 应用工程师
+  </p>
+
+  <p align="center">
+    梦想用 AI 造福人类
+  </p>
+
+  ---
+
+  ## 关于我
 
   独立开发者，AI 应用工程师。
 
-  做过人脸识别和深度学习模型训练。现在主要做 Agent 系统、AI 应用后端、训练流程和部署运维。
+  AI 爆发前做人脸识别，项目已经上线。
+  现在主要做 AI 应用。
 
-  我关注的是把 AI 接进真实流程：能调用工具，能处理状态，能记录过程，出错后能查，成本也能算。
+  我关心的是把 AI 放进真实生活中，帮助人类。
+  梦想用 AI 造福人类。
 
-  写代码，也写 AI 使用笔记。
-  前者让系统跑起来，后者记录我怎么被 AI 帮忙，以及怎么没被它带偏。
+  ---
 
-  ## Focus
+  ## Vibe Coding
 
-  - AI Agent systems
-  - AI application backend
-  - Model training and evaluation
-  - Deployment and automation
-  - AI-assisted development and writing
+  之前只会后端和 AI 开发。
+  现在有了 vibe coding，有了啥都能做的错觉。
 
-  ## Blog
+  ---
 
-  记录 AI 使用、产品想法和工程判断。
+  ## 我的博客
 
-  文章会用 AI 辅助完成。思想判断不外包。
+  我对于 AI 的运用、思考和工程实现都会记录到 [我的博客](https://
+  jiaotangxq.github.io)。
 
-  https://jiaotangxq.github.io
+  虽然文章是 AI 完成，
+  但思想均由我负责生成。
